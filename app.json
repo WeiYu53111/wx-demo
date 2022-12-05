@@ -1,7 +1,7 @@
 {
   "pages":[
+    "pages/question/question",
     "pages/number/number",
-    "pages/first/first",
     "pages/index/index",
     "pages/logs/logs"
   ],
