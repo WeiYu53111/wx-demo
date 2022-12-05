@@ -1,0 +1,13 @@
+<!--pages/number/number.wxml-->
+<view>
+  <text>输入第一个数字</text>
+  <input id="num1" type="number" bindchange="change"/>
+</view>
+<view>
+  <text>输入第二个数字</text>
+  <input id="num2" type="number" bindchange="change" />
+</view>
+<button bindtap="compare" >比较</button>
+<view>
+<text>比较结果: {{result}} </text>
+</view>

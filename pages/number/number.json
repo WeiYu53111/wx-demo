@@ -1,0 +1,9 @@
+{
+  "usingComponents": {},
+
+  "navigationBarTitleText": "数值比较",
+  "navigationBarBackgroundColor": "#369",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50
+
+}
