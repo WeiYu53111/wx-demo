@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/music/music",
     "pages/question/question",
     "pages/number/number",
     "pages/index/index",
